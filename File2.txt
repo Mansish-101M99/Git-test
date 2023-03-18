@@ -1,1 +1,2 @@
 This is the second file for testing git and github program.
+This sentence is added so that the commit in Devgroup1 could be done.

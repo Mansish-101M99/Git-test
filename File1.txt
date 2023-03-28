@@ -1,2 +1,3 @@
 This is the first file of git and github testing program. Everyhing written here is for experimental purpose.
 Now, these lines are written from the remote repository of github.
+These lines are wriiten to show the first stage of git three way merge.
